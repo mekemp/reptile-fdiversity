@@ -1,0 +1,7 @@
+﻿trait_name,trait_type,trait_weight
+sizeclass,O,1
+habitat,N,1
+diet,N,1
+reprod,N,1
+foraging,N,1
+activity,N,1

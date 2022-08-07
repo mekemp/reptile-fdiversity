@@ -1,0 +1,19 @@
+﻿fe,intfenum,intfeisland,num_int,num_sp,Caribbean endemic,Total_num_sp_in_FE
+fe_105,1,Puerto Rico,1,1,NO,1
+fe_116,1,Great Abaco,1,1,NO,1
+fe_32,1,Anguilla,1,1,YES,3
+fe_74,1,Great Abaco,1,1,YES,1
+fe_86,1,Grand Terre,1,1,NO,1
+fe_9,1,Jamaica,1,1,YES,10
+fe_89,1,Cuba,1,1,NO,1
+fe_91,1,Grand Terre,1,1,NO,1
+fe_17,1,"Hispaniola, Jamaica",2,1,YES,6
+fe_60,1,"Cuba, Puerto Rico",2,1,NO,1
+fe_87,1,"Cuba,Hispaniola",2,1,NO,1
+fe_88,1,"Cuba,Hispaniola",2,1,NO,1
+fe_1,1,"Anguilla, Grand Terre, Grand Turk",3,1,NO,34
+fe_120,1,Antigua,3,1,NO,1
+fe_123,1,"Great Abaco, Hispaniola, Puerto Rico",3,1,NO,1
+fe_90,1,"Anguilla, Grand Terre, Marie Galante, Puerto Rico",4,1,NO (Iguana),1
+fe_28,1,"Antigua, Barbuda,Cuba,Grand Terre,La Desirade,Puerto Rico",6,1,YES,4
+fe_47,1,"Anguilla, Antigua, Cuba, Grand Terre, Grand Turk, Hispaniola,Jamaica,La Desirade,Marie Galante,Middle Caicos,Puerto Rico",11,1,NO,2

@@ -1,0 +1,52 @@
+"","nb_sp","nb_fe","fred","fored","fvuln"
+"Anguilla_ancient",11,11,1,0,1
+"Anguilla_extantnat",9,9,1,0,1
+"Anguilla_modern",13,13,1,0,1
+"Antigua_ancient",10,9,1.11111111111111,0.0888888888888889,0.888888888888889
+"Antigua_extantnat",6,6,1,0,1
+"Antigua_modern",9,9,1,0,1
+"Barbuda_ancient",10,9,1.11111111111111,0.0888888888888889,0.888888888888889
+"Barbuda_extantnat",6,6,1,0,1
+"Barbuda_modern",8,8,1,0,1
+"Cuba_ancient",150,56,2.67857142857143,0.349523809523809,0.5
+"Cuba_extantnat",149,55,2.70909090909091,0.34777303233679,0.490909090909091
+"Cuba_modern",155,60,2.58333333333333,0.350537634408602,0.516666666666667
+"Culebra_ancient",6,5,1.2,0.133333333333333,0.8
+"Culebra_extantnat",5,4,1.25,0.15,0.75
+"Culebra_modern",5,4,1.25,0.15,0.75
+"Grand-Terre_ancient",12,10,1.2,0.15,0.9
+"Grand-Terre_extantnat",6,5,1.2,0.133333333333333,0.8
+"Grand-Terre_modern",13,12,1.08333333333333,0.0705128205128205,0.916666666666667
+"Grand Turk_ancient",7,7,1,0,1
+"Grand Turk_extantnat",3,3,1,0,1
+"Grand Turk_modern",5,5,1,0,1
+"Great Abaco_ancient",12,11,1.09090909090909,0.0757575757575758,0.909090909090909
+"Great Abaco_extantnat",7,7,1,0,1
+"Great Abaco_modern",10,10,1,0,1
+"Hispaniola_ancient",109,41,2.65853658536585,0.395390467666144,0.585365853658537
+"Hispaniola_extantnat",100,38,2.63157894736842,0.400526315789474,0.605263157894737
+"Hispaniola_modern",105,42,2.5,0.395238095238095,0.619047619047619
+"Jamaica_ancient",39,30,1.3,0.184615384615385,0.8
+"Jamaica_extantnat",31,24,1.29166666666667,0.169354838709677,0.75
+"Jamaica_modern",34,26,1.30769230769231,0.171945701357466,0.730769230769231
+"La Desirade_ancient",9,9,1,0,1
+"La Desirade_extantnat",5,5,1,0,1
+"La Desirade_modern",7,7,1,0,1
+"Marie-Galante_ancient",11,9,1.22222222222222,0.161616161616162,0.888888888888889
+"Marie-Galante_extantnat",3,3,1,0,1
+"Marie-Galante_modern",5,5,1,0,1
+"Middle Caicos_ancient",8,8,1,0,1
+"Middle Caicos_extantnat",6,6,1,0,1
+"Middle Caicos_modern",7,7,1,0,1
+"Mona_ancient",5,5,1,0,1
+"Mona_extantnat",4,4,1,0,1
+"Mona_modern",4,4,1,0,1
+"Navassa_ancient",9,9,1,0,1
+"Navassa_extantnat",4,4,1,0,1
+"Navassa_modern",4,4,1,0,1
+"Puerto Rico_ancient",36,22,1.63636363636364,0.265151515151515,0.681818181818182
+"Puerto Rico_extantnat",33,20,1.65,0.275757575757576,0.7
+"Puerto Rico_modern",39,26,1.5,0.256410256410256,0.769230769230769
+"Sombrero_ancient",4,4,1,0,1
+"Sombrero_extantnat",3,3,1,0,1
+"Sombrero_modern",3,3,1,0,1

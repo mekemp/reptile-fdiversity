@@ -1,0 +1,404 @@
+Binomial,mass,habitatex,diet,reprod,foraging,activity,Family,IUCN redlist assessment,IUCN population trend,Rep Type,Maximum TL or CL,,maximum SVL
+Amphisbaena bakeri,10.7102154,Fossorial&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,260
+Amphisbaena barbouri,2.294187337,Fossorial&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,177
+Amphisbaena caeca,16.81973724,Fossorial&Terrestrial,Insectivorous,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,291
+Amphisbaena carlgansi,1.861291062,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,168
+Amphisbaena caudalis,8.720405732,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,247
+Amphisbaena cubana,4.213722702,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,206
+Amphisbaena hyporissor,21.67136702,Saxicolous&Terrestrial,Insectivorous,Oviparous,NA,Nocturnal,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,310
+Amphisbaena innocens,11.04417487,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,262
+Amphisbaena leali,9.753684478,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,254
+Amphisbaena manni,4.727459258,Saxicolous&Terrestrial,NA,Oviparous,NA,Nocturnal,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,212
+Amphisbaena schmidti,7.771528527,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,240
+Amphisbaena xera,8.440895041,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,245
+Cadea blanoides,17.34868506,Saxicolous&Terrestrial,Insectivorous,Oviparous,NA,NA,Amphisbaenidae,,,Amphisabaena,,Feldman et al 2015,260
+Anolis agueroi,78.57014621,Arboreal,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,158.1
+Anolis ahli,4.931953265,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,EN,unknown,Lizard,,Feldman et al 2015,61.7
+Anolis alayoni,2.187073104,Twig,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,46.8
+Anolis alfaroi,1.010745828,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,36
+Anolis allisoni,4.5,Trunk-Crown,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,100
+Anolis allogus,5.195140195,Trunk-Ground,Carnivorous,Oviparous,Mixed,Diurnal,Dactyloidae,LC,unknown,Lizard,,Feldman et al 2015,62.8
+Anolis altitudinalis,2.98182284,Trunk-Crown,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,52
+Anolis alutaceus,2.35619766,Grass-Bush,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,48
+Anolis anfiloquioi,1.429330557,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,40.5
+Anolis angusticeps,2.6,Twig,Carnivorous,Oviparous,Active,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,53
+Anolis argenteolus,2.19,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,65
+Anolis argillaceus,2.35619766,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,48
+Anolis baracoae,56,Crown-Giant,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,172
+Anolis barbatus,97.27040557,Arboreal,Herbivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,170
+Anolis bartschi,10.58987275,Saxicolous,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,80
+Anolis birama,5.748983938,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,65
+Anolis bremeri,7.767338007,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,72
+Anolis carolinensis,2.455,Trunk-Crown,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,LC,stable,Lizard,,Amniote DB,75
+Anolis centralis,2.370668421,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,LC,unknown,Lizard,,Feldman et al 2015,48.1
+Anolis chamaeleonides,109.5310749,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,177
+Anolis clivicola,2.564157418,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,LC,unknown,Lizard,,Feldman et al 2015,49.4
+Anolis confusus,3.15369441,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,53
+Anolis cooki,6.95,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,70
+Anolis cristatellus,8.4,Trunk-Ground,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,78
+Anolis cupeyalensis,0.817865375,Grass-Bush,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,33.5
+Anolis cuvieri,46.6,Crown-Giant,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,180
+Anolis cyanopleurus,1.704763728,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,43
+Anolis delafuentei,4.769143328,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,61
+Anolis desiradei,10.58987275,Arboreal&Saxicolous,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,80
+Anolis distichus,3.1,Trunk,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,53
+Anolis equestris,56,Crown-Giant,Omnivorous,Oviparous,Mixed,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,190
+Anolis evermanni,5.4,Trunk-Crown,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,78
+Anolis ferreus,58.47882289,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,143
+Anolis fugitivus,1.027355179,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,36.2
+Anolis garmani,33.8,Crown-Giant,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,138
+Anolis garridoi,1.568558141,Twig,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,41.8
+Anolis gingivinus,7.767338007,Arboreal&Saxicolous&Terrestrial,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,72
+Anolis grahami,6.1,Trunk-Crown,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,LC,unknown,Lizard,,Amniote DB,75
+Anolis guafe,2.473609364,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,EN,unknown,Lizard,,Feldman et al 2015,48.8
+Anolis guamuhaya,84.40985861,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,162
+Anolis guazuma,2.42913804,Twig,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,48.5
+Anolis gundlachi,6.9,Trunk-Ground,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,76
+Anolis homolechis,7.149545489,Trunk-Ground,Carnivorous,Oviparous,Mixed,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,70
+Anolis imias,6.396131966,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,67.4
+Anolis incredulus,0.854301116,NA,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,34
+Anolis inexpectatus,1.095593564,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,37
+Anolis isolepis,1.590740771,Trunk-Crown,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,42
+Anolis juangundlachi,1.010745828,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,CR,unknown,Lizard,,Feldman et al 2015,36
+Anolis jubar,5.00283697,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,62
+Anolis krugi,2.1,Grass-Bush,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,55
+Anolis leachii,37.54056787,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,123
+Anolis lineatopus,3.1,Trunk-Ground,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,73
+Anolis litoralis,2.370668421,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,48.1
+Anolis longiceps,11.80124286,Trunk-Crown,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,VU,stable,Lizard,,Feldman et al 2015,83
+Anolis loysiana,2.98182284,Trunk,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,52
+Anolis lucius,2.89,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,70
+Anolis luteogularis,56,Crown-Giant,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,191
+Anolis macilentus,1.481870002,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,41
+Anolis marmoratus,12.65757413,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,85
+Anolis mestrei,4.542772401,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,60
+Anolis monensis,4.542772401,Trunk-Ground,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,60
+Anolis noblei,56,Crown-Giant,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,190
+Anolis occultus,0.6,Twig,NA,Oviparous,NA,Diurnal,Dactyloidae,LC,unknown,Lizard,,Amniote DB,42
+Anolis opalinus,1.75,Trunk-Crown,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,56
+Anolis ophiolepis,1.357863136,Grass-Bush,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,39.8
+Anolis oporinus,2.173352958,Trunk-Crown,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,46.7
+Anolis paternus,2.6,Twig,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,50
+Anolis pigmaequestris,54.94253341,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,140
+Anolis pogus,4.111546034,Fossorial&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,VU,unknown,Lizard,,Feldman et al 2015,58
+Anolis poncensis,1.7,Grass-Bush,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,48
+Anolis porcatus,2.455,Trunk-Crown,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,95.1
+Anolis porcus,100.6757076,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,172
+Anolis pulchellus,1.6,Grass-Bush,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,51.3
+Anolis pumilus,1.298516909,Arboreal,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,39.2
+Anolis quadriocellifer,3.516794832,Trunk-Ground,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,55
+Anolis reconditus,20.41737945,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,Mixed,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,100
+Anolis rejectus,1.095593564,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,37
+Anolis roosevelti,84.40985861,Crown-Giant,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,CR,unknown,Lizard,,Feldman et al 2015,162
+Anolis rubribarbus,5.986333251,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,65.9
+Anolis ruibali,1.052605433,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,36.5
+Anolis sagrei,4.05,Trunk-Ground,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,75
+Anolis scriptus,9.106543962,Trunk-Ground,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,76
+Anolis sierramaestrae,85.95198921,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,163
+Anolis smallwoodi,56,Crown-Giant,Omnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,190
+Anolis smaragdinus,2.455,Trunk-Crown,Carnivorous,Oviparous,Mixed,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,64.1
+Anolis spectrum,1.601909312,Arboreal&Terrestrial,NA,Oviparous,NA,Diurnal,Dactyloidae,NT,unknown,Lizard,,Feldman et al 2015,42.1
+Anolis stratulus,1.9,Trunk-Crown,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dactyloidae,NE,NE,Lizard,,Amniote DB,61
+Anolis terueli,1.378035782,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,40
+Anolis toldo,4.815292621,Arboreal,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,61.2
+Anolis valencienni,5.415,Twig,Omnivorous,Oviparous,Active,Diurnal,Dactyloidae,LC,unknown,Lizard,,Amniote DB,86
+Anolis vanidicus,1.27912231,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,39
+Anolis vermiculatus,49.36759231,Semi-Aquatic,Omnivorous,Oviparous,Active,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,135
+Anolis vescus,1.481870002,Grass-Bush,NA,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,41
+Anolis wattsii,4.111546034,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dactyloidae,NE,NE,Lizard,,Feldman et al 2015,58
+Aristelliger cochranae,8.767294218,Arboreal&Saxicolous,Carnivorous,Oviparous,Active,Cathemeral,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,71.2
+Aristelliger expectatus,4.072650928,Arboreal,NA,Oviparous,NA,Nocturnal,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,55
+Aristelliger lar,80.16615229,Arboreal,Omnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,NT,unknown,Lizard,,Feldman et al 2015,150
+Aristelliger praesignis,7.71,Arboreal,Carnivorous,Oviparous,Sit-and-Wait,Cathemeral,Sphaerodactylidae,NE,NE,Lizard,,Amniote DB,100.7
+Aristelliger reyesi,6.270001338,Arboreal&Saxicolous,Carnivorous,Oviparous,NA,Cathemeral,Sphaerodactylidae,CR,decreasing,Lizard,,Feldman et al 2015,63.6
+Aristelliger titan,80.16615229,NA,NA,Oviparous,NA,Cathemeral,Sphaerodactylidae,,,Lizard,,Feldman et al 2015,150
+Capitellum mariagalantae,9.771398602,NA,NA,Viviparous,NA,NA,Scincidae,CR,unknown,Lizard,,Feldman et al 2015,78.3
+Celestus agasepsoides,2.340510738,Cryptic&Fossorial,Carnivorous,NA,NA,NA,Anguidae,EN,unknown,Lizard,,Feldman et al 2015,71
+Celestus anelpistus,599.5979134,Cryptic&Fossorial,NA,Viviparous,NA,Nocturnal,Anguidae,CR,unknown,Lizard,,Feldman et al 2015,285
+Celestus badius,17.95874653,Terrestrial,Carnivorous,Viviparous,NA,Diurnal,Anguidae,LC,stable,Lizard,,Feldman et al 2015,104
+Celestus barbouri,19.18953324,NA,NA,NA,NA,NA,Anguidae,EN,decreasing,Lizard,,Feldman et al 2015,106
+Celestus carraui,585.0820786,NA,NA,NA,NA,NA,Anguidae,NE,NE,Lizard,,Feldman et al 2015,283
+Celestus costatus,35.99456662,Terrestrial,Omnivorous,Viviparous,NA,Diurnal,Anguidae,LC,stable,Lizard,,Feldman et al 2015,127
+Celestus crusculus,11.72145809,Terrestrial,Carnivorous,Viviparous,NA,NA,Anguidae,LC,stable,Lizard,,Feldman et al 2015,92
+Celestus curtissi,10.44424914,Terrestrial,NA,Viviparous,NA,NA,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,89
+Celestus darlingtoni,8.899751113,Terrestrial,NA,Viviparous,NA,Diurnal,Anguidae,EN,unknown,Lizard,,Feldman et al 2015,85
+Celestus duquesneyi,22.52806892,Terrestrial,NA,NA,NA,NA,Anguidae,CR,decreasing,Lizard,,Feldman et al 2015,111
+Celestus fowleri,18.56687274,Arboreal,NA,NA,NA,Nocturnal,Anguidae,VU,stable,Lizard,,Feldman et al 2015,105
+Celestus haetianus,14.60382915,Cryptic,Carnivorous,Viviparous,NA,NA,Anguidae,EN,decreasing,Lizard,,Feldman et al 2015,98
+Celestus hewardi,121.1569461,Saxicolous,Carnivorous,NA,NA,Diurnal,Anguidae,EN,decreasing,Lizard,,Feldman et al 2015,180
+Celestus macrotus,2.648294944,NA,NA,NA,NA,NA,Anguidae,EN,unknown,Lizard,,Feldman et al 2015,60
+Celestus marcanoi,6.599168497,Saxicolous,NA,NA,NA,Diurnal,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,78
+Celestus microblepharis,9.649993018,NA,NA,NA,NA,NA,Anguidae,CR,decreasing,Lizard,,Feldman et al 2015,87
+Celestus molesworthi,11.72145809,NA,NA,NA,NA,NA,Anguidae,,,Lizard,,,92
+Celestus occiduus,1108.01753,Terrestrial,Omnivorous,NA,NA,NA,Anguidae,CR,unknown,Lizard,,Feldman et al 2015,340
+Celestus sepsoides,6.599168497,Terrestrial,NA,Viviparous,NA,NA,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,78
+Celestus stenurus,103.4282068,Terrestrial,NA,Viviparous,NA,Diurnal,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,172
+Celestus warreni,599.5979134,Terrestrial,Carnivorous,Viviparous,NA,Cathemeral,Anguidae,VU,decreasing,Lizard,,Feldman et al 2015,285
+Cricosaura typica,1.222021519,Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Xantusiidae,NT,stable,Lizard,,Feldman et al 2015,40
+Cyclura carinata,773.435,Arboreal&Terrestrial,Herbivorous,Oviparous,Sit-and-Wait,Diurnal,Iguanidae,CR,decreasing,Lizard,,Amniote DB,510
+Cyclura collei,3331.584873,Arboreal&Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,CR,unknown,Lizard,,Feldman et al 2015,428
+Cyclura cornuta,16578.115,Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,VU,decreasing,Lizard,,Amniote DB,640
+Cyclura nubila,4100,Arboreal&Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,VU,NE,Lizard,,Amniote DB,750
+Cyclura onchiopsis,103485.0552,Terrestrial,Herbivorous,NA,NA,Diurnal,Iguanidae,,,Lizard,,,1360
+Cyclura pinguis,4964.89,Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,CR,NE,Lizard,,Amniote DB,560
+Cyclura ricordi,1634,Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,CR,decreasing,Lizard,,Amniote DB,485
+Cyclura stejnegeri,6394.89275,Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,EN,decreasing,Lizard,,Feldman et al 2015,533
+Diploglossus delasagra,30.41536893,Fossorial&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,121
+Diploglossus garridoi,17.36495019,Terrestrial,Carnivorous,Oviparous,NA,NA,Anguidae,NT,unknown,Lizard,,Feldman et al 2015,103
+Diploglossus nigropunctatus,30.41536893,Fossorial,Carnivorous,Oviparous,NA,NA,Anguidae,LC,unknown,Lizard,,Feldman et al 2015,121
+Diploglossus pleii,80.41508765,Fossorial&Terrestrial,Carnivorous,Viviparous,NA,NA,Anguidae,LC,stable,Lizard,,Feldman et al 2015,160
+Diploglossus sp.,174.8172905,Fossorial&Terrestrial,Carnivorous,NA,NA,NA,Anguidae,,,Lizard,,,200
+Gekko gecko,54.13,Arboreal&Saxicolous,Carnivorous,Oviparous,Mixed,Nocturnal,Gekkonidae,NE,NE,Lizard,,Amniote DB,220
+Gonatodes albogularis,1.865,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,48
+Gymnophthalmus underwoodi,1.2,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Gymnophthalmidae,LC,unknown,Lizard,,Amniote DB,48
+Hemidactylus angulatus,2.405,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Gekkonidae,NE,NE,Lizard,,Amniote DB,71
+Hemidactylus frenatus,3.295,Arboreal,Carnivorous,Oviparous,Mixed,Nocturnal,Gekkonidae,LC,stable,Lizard,,Amniote DB,67
+Hemidactylus mabouia,4.155,Arboreal&Saxicolous,Carnivorous,Oviparous,Sit-and-Wait,Cathemeral,Gekkonidae,NE,NE,Lizard,,Amniote DB,90
+Hemidactylus turcicus,2.53,Arboreal&Saxicolous,Carnivorous,Oviparous,Mixed,Nocturnal,Gekkonidae,LC,increasing,Lizard,,Amniote DB,64.7
+Iguana delicatissima,3400,Arboreal&Terrestrial,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,EN,decreasing,Lizard,,Amniote DB,434
+Iguana iguana,1530,Arboreal,Herbivorous,Oviparous,NA,Diurnal,Iguanidae,NE,NE,Lizard,,Amniote DB,580
+Leiocephalus anonymous,75.10561579,NA,NA,NA,NA,NA,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,135
+Leiocephalus apertosulcus,268.6830539,NA,NA,NA,NA,NA,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,200
+Leiocephalus barahonensis,16.12269821,Saxicolous&Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,84
+Leiocephalus carinatus,30,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Amniote DB,133.2
+Leiocephalus cubensis,52.65904224,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,121
+Leiocephalus cuneus,268.6830539,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,EX,NE,Lizard,,Feldman et al 2015,200
+Leiocephalus endomychus,8.518980051,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,CR,decreasing,Lizard,,Feldman et al 2015,69
+Leiocephalus eremitus,6.342513523,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,EX,NE,Lizard,,Feldman et al 2015,63
+Leiocephalus etheridgei,44.65222416,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,115
+Leiocephalus jamaicensis,158.6155831,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,170
+Leiocephalus lunatus,7.743915139,Saxicolous&Terrestrial,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,67
+Leiocephalus macropus,24.03021475,Arboreal&Terrestrial,Herbivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,95
+Leiocephalus melanochlorus,66.45356611,Terrestrial,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,NT,unknown,Lizard,,Feldman et al 2015,130
+Leiocephalus onaneyi,10.2271832,Terrestrial,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,CR,unknown,Lizard,,Feldman et al 2015,73
+Leiocephalus partidus,66.45356611,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,130
+Leiocephalus personatus,36.42446982,Saxicolous&Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,108
+Leiocephalus pratensis,6.674852231,Terrestrial,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,CR,unknown,Lizard,,Feldman et al 2015,64
+Leiocephalus psammodromus,18.28,Saxicolous&Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,VU,decreasing,Lizard,,Amniote DB,110
+Leiocephalus raviceps,10.73545482,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,74.1
+Leiocephalus rhutidira,7.375321949,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,CR,unknown,Lizard,,Feldman et al 2015,66
+Leiocephalus schreibersii,35.34203812,Saxicolous&Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,unknown,Lizard,,Feldman et al 2015,107
+Leiocephalus semilineatus,3.620984328,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,unknown,Lizard,,Feldman et al 2015,53
+Leiocephalus sixtoi,18.74810192,Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,NE,NE,Lizard,,Feldman et al 2015,88
+Leiocephalus sp.,268.6830539,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,EX,NE,Lizard,,Feldman et al 2015,200
+Leiocephalus stictigaster,28.37919028,Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,LC,stable,Lizard,,Feldman et al 2015,100
+Leiocephalus vinculum,12.1587638,NA,NA,Oviparous,Sit-and-Wait,Diurnal,Leiocephalidae,EN,unknown,Lizard,,Feldman et al 2015,77
+Lepidodactylus lugubris,1.46,Arboreal&Saxicolous&Terrestrial,Omnivorous,Oviparous,Sit-and-Wait,Nocturnal,Gekkonidae,NE,NE,Lizard,,Amniote DB,51
+Mabuya desiradae,20.23481438,Saxicolous&Terrestrial,NA,NA,NA,Diurnal,Scincidae,NE,NE,Lizard,,Feldman et al 2015,98.1
+Mabuya grandisterrae,23.02205681,NA,NA,NA,NA,NA,Scincidae,NE,NE,Lizard,,Feldman et al 2015,102.1
+Mabuya hispaniolae,16.79526559,NA,NA,NA,NA,NA,Scincidae,CR,unknown,Lizard,,Feldman et al 2015,92.6
+Pholidoscelis auberi,77.32252097,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Teiidae,LC,stable,Lizard,,Feldman et al 2015,136
+Pholidoscelis chrysolaemus,128.1778982,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Teiidae,LC,stable,Lizard,,Feldman et al 2015,160
+Pholidoscelis cineraceus,104.8682005,Terrestrial,Omnivorous,NA,NA,Diurnal,Teiidae,EX,NE,Lizard,,Feldman et al 2015,150
+Pholidoscelis corvinus,72.14040953,Terrestrial,Omnivorous,NA,NA,Diurnal,Teiidae,CR,unknown,Lizard,,Feldman et al 2015,133
+Pholidoscelis dorsalis,48.42370666,Terrestrial,Omnivorous,NA,Active,Diurnal,Teiidae,EN,decreasing,Lizard,,Feldman et al 2015,117
+Pholidoscelis exsul,260.5791953,Terrestrial,Omnivorous,Oviparous,Active,Diurnal,Teiidae,LC,stable,Lizard,,Feldman et al 2015,201
+Pholidoscelis griswoldi,256.5684713,Terrestrial,Carnivorous,NA,Active,Diurnal,Teiidae,NT,decreasing,Lizard,,Feldman et al 2015,200
+Pholidoscelis lineolatus,5.759035508,Terrestrial,Carnivorous,NA,Active,Diurnal,Teiidae,LC,unknown,Lizard,,Feldman et al 2015,59
+Pholidoscelis plei,188.0963499,Terrestrial,Omnivorous,Oviparous,Active,Diurnal,Teiidae,LC,unknown,Lizard,,Feldman et al 2015,181
+Pholidoscelis sp.,104.8682005,Terrestrial,Omnivorous,NA,NA,Diurnal,Teiidae,EX,NE,Lizard,,Feldman et al 2015,150
+Pholidoscelis taeniurus,34.58587122,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Teiidae,LC,unknown,Lizard,,Feldman et al 2015,105
+Pholidoscelis turukaeraensis,208.1744358,NA,NA,NA,NA,Diurnal,Teiidae,NE,NE,Lizard,,Feldman et al 2015,187
+Pholidoscelis wetmorei,3.982174642,Terrestrial,NA,Oviparous,Active,Diurnal,Teiidae,VU,decreasing,Lizard,,Feldman et al 2015,52.4
+Phyllodactylus wirshingi,7.525873085,Saxicolous,NA,Oviparous,NA,Nocturnal,Phyllodactylidae,NT,unknown,Lizard,,Feldman et al 2015,66
+Scincella lateralis,1.615,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Scincidae,LC,stable,Lizard,,Amniote DB,59
+Sphaerodactylus altavelensis,0.608586135,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,29
+Sphaerodactylus argus,0.893277513,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,33
+Sphaerodactylus ariasae,0.1,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,17.9
+Sphaerodactylus armasi,0.815258688,Arboreal,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,32
+Sphaerodactylus armstrongi,0.741898052,NA,NA,NA,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,31
+Sphaerodactylus asterulus,0.741898052,Terrestrial,Carnivorous,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,31
+Sphaerodactylus becki,0.741898052,Saxicolous&Terrestrial,NA,NA,NA,Cathemeral,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,31
+Sphaerodactylus bromeliarum,0.554188833,Arboreal,NA,NA,NA,NA,Sphaerodactylidae,DD,unknown,Lizard,,Feldman et al 2015,28.1
+Sphaerodactylus caicosensis,0.815258688,NA,NA,Oviparous,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,32
+Sphaerodactylus callocricus,0.548351901,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,VU,unknown,Lizard,,Feldman et al 2015,28
+Sphaerodactylus celicara,0.815258688,Arboreal&Saxicolous,NA,NA,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,32
+Sphaerodactylus cinereus,0.87,Arboreal,Carnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,VU,decreasing,Lizard,,Amniote DB,37
+Sphaerodactylus clenchi,0.976095664,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,NT,unknown,Lizard,,Feldman et al 2015,34
+Sphaerodactylus cochranae,0.673054336,Saxicolous&Terrestrial,NA,NA,NA,Nocturnal,Sphaerodactylidae,CR,unknown,Lizard,,Feldman et al 2015,30
+Sphaerodactylus copei,1.702033307,Saxicolous,NA,Oviparous,NA,NA,Sphaerodactylidae,NT,unknown,Lizard,,Feldman et al 2015,41
+Sphaerodactylus cricoderus,0.391635296,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,DD,unknown,Lizard,,Feldman et al 2015,25
+Sphaerodactylus cryphius,0.267913971,Terrestrial,NA,NA,NA,Nocturnal,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,22
+Sphaerodactylus dacnicolor,0.815258688,NA,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,32
+Sphaerodactylus darlingtoni,0.608586135,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,NT,decreasing,Lizard,,Feldman et al 2015,29
+Sphaerodactylus difficilis,0.5,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,unknown,Lizard,,Amniote DB,34
+Sphaerodactylus dimorphicus,0.925820955,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,33.4
+Sphaerodactylus docimus,0.673054336,NA,NA,NA,NA,NA,Sphaerodactylidae,DD,unknown,Lizard,,Feldman et al 2015,30
+Sphaerodactylus elasmorhynchus,0.124575689,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,CR,unknown,Lizard,,Feldman et al 2015,17
+Sphaerodactylus elegans,0.51,Arboreal&Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,39.7
+Sphaerodactylus elegantulus,0.608586135,Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,DD,unknown,Lizard,,Feldman et al 2015,29
+Sphaerodactylus epiurus,0.391635296,NA,NA,Oviparous,NA,NA,Sphaerodactylidae,CR,decreasing,Lizard,,Feldman et al 2015,25
+Sphaerodactylus fantasticus,0.608586135,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,29
+Sphaerodactylus gaigeae,0.391635296,Terrestrial,NA,NA,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,25
+Sphaerodactylus gilvitorques,0.49220994,NA,NA,NA,NA,NA,Sphaerodactylidae,DD,unknown,Lizard,,Feldman et al 2015,27
+Sphaerodactylus goniorhynchus,0.815258688,Arboreal&Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,NT,unknown,Lizard,,Feldman et al 2015,32
+Sphaerodactylus intermedius,1.156693852,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,36
+Sphaerodactylus klauberi,1.254755536,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,37
+Sphaerodactylus ladae,0.60237452,Terrestrial,NA,NA,NA,Nocturnal,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,28.9
+Sphaerodactylus lazelli,0.741898052,NA,NA,NA,NA,NA,Sphaerodactylidae,CR,unknown,Lizard,,Feldman et al 2015,31
+Sphaerodactylus leucaster,0.741898052,Terrestrial,NA,Oviparous,NA,Nocturnal,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,31
+Sphaerodactylus macrolepis,0.5,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,35
+Sphaerodactylus monensis,0.5,Terrestrial,NA,NA,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,30
+Sphaerodactylus nicholsi,0.3,Terrestrial,NA,Oviparous,NA,Cathemeral,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,25
+Sphaerodactylus nigropunctatus,1.581678365,Terrestrial,Carnivorous,Oviparous,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,40
+Sphaerodactylus notatus,0.5,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Amniote DB,34
+Sphaerodactylus nycteropus,0.233341135,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,CR,unknown,Lizard,,Feldman et al 2015,21
+Sphaerodactylus ocoae,1.254755536,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,37
+Sphaerodactylus oliveri,0.976095664,NA,NA,Oviparous,NA,Diurnal,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,34
+Sphaerodactylus omoglaux,0.201864099,Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,20
+Sphaerodactylus oxyrhinus,0.976095664,Arboreal&Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,34
+Sphaerodactylus parkeri,1.063854149,Saxicolous&Terrestrial,NA,Oviparous,NA,Nocturnal,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,35
+Sphaerodactylus parvus,0.5,Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,NE,NE,Lizard,,Amniote DB,24
+Sphaerodactylus perissodactylius,0.305725506,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,23
+Sphaerodactylus pimienta,0.81,Saxicolous&Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Amniote DB,38
+Sphaerodactylus plummeri,0.267913971,Terrestrial,NA,Oviparous,NA,Diurnal,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,22
+Sphaerodactylus ramsdeni,0.893277513,NA,NA,NA,NA,NA,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,33
+Sphaerodactylus randi,0.5,NA,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Amniote DB,32
+Sphaerodactylus rhabdotus,0.815258688,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,32
+Sphaerodactylus richardi,0.822848622,Arboreal&Saxicolous,NA,NA,NA,NA,Sphaerodactylidae,NT,unknown,Lizard,,Feldman et al 2015,32.1
+Sphaerodactylus richardsonii,1.581678365,Terrestrial,NA,NA,NA,Diurnal,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,40
+Sphaerodactylus roosevelti,0.97,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,Nocturnal,Sphaerodactylidae,NT,stable,Lizard,,Amniote DB,39
+Sphaerodactylus ruibali,0.815258688,Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,32
+Sphaerodactylus samanensis,0.608586135,NA,NA,NA,NA,NA,Sphaerodactylidae,CR,decreasing,Lizard,,Feldman et al 2015,29
+Sphaerodactylus savagei,0.635,Arboreal,NA,Oviparous,NA,Cathemeral,Sphaerodactylidae,NT,unknown,Lizard,,Amniote DB,33
+Sphaerodactylus scaber,0.976095664,Cryptic,Carnivorous,Oviparous,NA,NA,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,34
+Sphaerodactylus schuberti,0.893277513,Arboreal&Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,CR,unknown,Lizard,,Feldman et al 2015,33
+Sphaerodactylus schwartzi,0.201864099,Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,20
+Sphaerodactylus semasiops,0.815258688,Arboreal&Saxicolous&Terrestrial,NA,NA,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,32
+Sphaerodactylus siboney,0.83048528,Terrestrial,Carnivorous,Oviparous,NA,NA,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,32.2
+Sphaerodactylus sommeri,1.063854149,Terrestrial,NA,NA,NA,Nocturnal,Sphaerodactylidae,CR,decreasing,Lizard,,Feldman et al 2015,35
+Sphaerodactylus sputator,1.581678365,Terrestrial,Carnivorous,Oviparous,NA,Cathemeral,Sphaerodactylidae,LC,unknown,Lizard,,Feldman et al 2015,40
+Sphaerodactylus storeyae,0.815258688,NA,NA,NA,NA,NA,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,32
+Sphaerodactylus streptophorus,0.440018406,Terrestrial,NA,Oviparous,NA,NA,Sphaerodactylidae,VU,unknown,Lizard,,Feldman et al 2015,26
+Sphaerodactylus thompsoni,0.893277513,NA,NA,NA,NA,Nocturnal,Sphaerodactylidae,EN,unknown,Lizard,,Feldman et al 2015,33
+Sphaerodactylus torrei,1.467107316,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,EN,stable,Lizard,,Feldman et al 2015,39
+Sphaerodactylus townsendi,0.673054336,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,30
+Sphaerodactylus underwoodi,0.815258688,NA,NA,NA,NA,NA,Sphaerodactylidae,LC,stable,Lizard,,Feldman et al 2015,32
+Sphaerodactylus williamsi,0.267913971,NA,NA,NA,NA,Nocturnal,Sphaerodactylidae,CR,decreasing,Lizard,,Feldman et al 2015,22
+Sphaerodactylus zygaena,0.815258688,NA,NA,Oviparous,NA,NA,Sphaerodactylidae,EN,decreasing,Lizard,,Feldman et al 2015,32
+Spondylurus culebrae,19.90368369,NA,NA,Viviparous,NA,NA,Scincidae,CR,decreasing,Lizard,,Feldman et al 2015,97.6
+Spondylurus fulgidus,12.64125543,Arboreal&Saxicolous,Carnivorous,Viviparous,NA,Diurnal,Scincidae,EN,decreasing,Lizard,,Feldman et al 2015,84.8
+Spondylurus haitiae,12.83481022,NA,NA,Viviparous,NA,NA,Scincidae,CR,unknown,Lizard,,Feldman et al 2015,85.2
+Spondylurus lineolatus,5.018411006,Terrestrial,NA,Viviparous,NA,NA,Scincidae,CR,decreasing,Lizard,,Feldman et al 2015,63.7
+Spondylurus monae,13.73117388,NA,NA,Viviparous,NA,Diurnal,Scincidae,CR,unknown,Lizard,,Feldman et al 2015,87
+Spondylurus powelli,7.353114922,Arboreal&Saxicolous,NA,Viviparous,NA,Diurnal,Scincidae,EN,decreasing,Lizard,,Feldman et al 2015,71.7
+Spondylurus turksae,10.18012526,NA,NA,Viviparous,NA,NA,Scincidae,CR,decreasing,Lizard,,Feldman et al 2015,79.3
+Tarentola albertschwartzi,64.66094841,NA,NA,NA,NA,NA,Phyllodactylidae,DD,unknown,Lizard,,Feldman et al 2015,137
+Tarentola americana,43.7712319,Arboreal&Saxicolous,Carnivorous,Oviparous,NA,NA,Phyllodactylidae,LC,unknown,Lizard,,Feldman et al 2015,120
+Tarentola crombiei,5.091872075,Arboreal,Carnivorous,Oviparous,NA,Nocturnal,Phyllodactylidae,LC,stable,Lizard,,Feldman et al 2015,57.8
+Thecadactylus rapicauda,29.2,Arboreal&Terrestrial,Carnivorous,Oviparous,Sit-and-Wait,Nocturnal,Phyllodactylidae,NE,NE,Lizard,,Amniote DB,126
+Alsophis antiguae,116.7605361,NA,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,700
+Alsophis antillensis,241.704553,Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,930
+Alsophis rijgersmaei,159.1559872,Saxicolous&Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,790
+Alsophis sp.,267.7957251,NA,NA,Oviparous,NA,NA,Dipsadidae,EX,,Snake,1200,,
+Arrhyton ainictum,21.72305325,NA,NA,Oviparous,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,363
+Arrhyton dolichura,8.273066741,Saxicolous&Terrestrial,NA,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,249
+Arrhyton procerum,5.154660357,Saxicolous&Terrestrial,NA,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,207
+Arrhyton redimitum,8.358423312,Fossorial&Terrestrial,NA,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,250
+Arrhyton supernum,8.793249623,Saxicolous&Terrestrial,NA,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,255
+Arrhyton taeniatum,37.23256821,Saxicolous&Terrestrial,Carnivorous,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,448
+Arrhyton tanyplectum,14.02595926,Saxicolous&Terrestrial,NA,NA,Active,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,306
+Arrhyton vittatum,5.154660357,Saxicolous&Terrestrial,NA,NA,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,207
+Boa blanchardensis,1.715735232,NA,NA,NA,NA,Nocturnal,Boidae,EX,,Snake,139,,
+Boa constrictor,35283.7665,NA,Carnivorous,Viviparous,NA,Nocturnal,Boidae,,,Snake,4500,Feldman et al 2015,3000
+Boa sp.1,NA,NA,NA,NA,NA,Nocturnal,Boidae,EX,,Snake,,,
+Boa sp.2,1133.008695,NA,NA,NA,NA,Nocturnal,Boidae,EX,,Snake,1350,,
+Borikenophis portoricensis,237.0727057,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,923
+Caraiba andreae,116.7605361,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,700
+Chilabothrops exsul,374.9336437,NA,Carnivorous,Viviparous,NA,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,810
+Chilabothrops fordii,442.7593087,Arboreal&Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,860
+Chilabothrops angulifer,31573.1953,Arboreal,Carnivorous,Viviparous,Sit-and-Wait,NA,Boidae,,,Snake,,Feldman et al 2015,4000
+Chilabothrops chrysogaster,1424.115183,Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,1310
+Chilabothrops gracilis,510.10133,Arboreal,Carnivorous,NA,Active,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,905
+Chilabothrops granti,8203,NA,Carnivorous,NA,NA,NA,Boidae,,,Snake,2700,,
+Chilabothrops inornatus,4936.60886,Arboreal&Terrestrial,Carnivorous,Viviparous,Active,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,2050
+Chilabothrops striatus,7043.362435,Arboreal,Carnivorous,Viviparous,Active,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,2330
+Clelia cf. clelia,1717.662439,Semi-Aquatic,Carnivorous,Oviparous,Active,NA,Dipsadidae,,,Snake,,Feldman et al 2015,2000
+Cubophis cantherigerus,607.7010863,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,1333
+Cubophis sp.,NA,NA,Carnivorous,NA,NA,NA,Dipsadidae,EX,,Snake,,,
+Cubophis vudii,186.2426968,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,840
+Epicrates subflavus,4609.557831,Arboreal&Terrestrial,Carnivorous,Viviparous,Active,Nocturnal,Boidae,,,Snake,,Feldman et al 2015,2000
+Haitiophis anomalus,2179.4,Terrestrial,NA,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,2000
+Hypsirhynchus ater,191.973759,Terrestrial,Carnivorous,NA,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,850
+Hypsirhynchus callilaemus,40.95878001,Terrestrial,Carnivorous,NA,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,465
+Hypsirhynchus ferox,150.5316021,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,773
+Hypsirhynchus funererus,44.19155156,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,479
+Hypsirhynchus melanichnus,89.14790614,Terrestrial,NA,NA,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,630
+Hypsirhynchus parvifrons,65.03320458,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,557
+Hypsirhynchus polylepis,38.74067531,Terrestrial,Carnivorous,Oviparous,Active,NA,Dipsadidae,,,Snake,,Feldman et al 2015,455
+Hypsirhynchus scalaris,76.01790401,Terrestrial,Carnivorous,Oviparous,NA,NA,Dipsadidae,,,Snake,,Feldman et al 2015,592
+Ialtris agyrtes,70.86666252,Terrestrial,Carnivorous,NA,NA,NA,Dipsadidae,,,Snake,,Feldman et al 2015,576
+Ialtris dorsalis,283.6754375,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,990
+Ialtris haetianus,13.9088713,Saxicolous&Terrestrial,Carnivorous,Oviparous,Active,NA,Dipsadidae,,,Snake,,Feldman et al 2015,305
+Ialtris parishi,136.9595166,Terrestrial,NA,Oviparous,NA,NA,Dipsadidae,,,Snake,,Feldman et al 2015,745
+Liophis juliae,39.4,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,458
+Magliophis exiguus,16.36565107,Terrestrial,Carnivorous,Oviparous,Active,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,325
+Magliophis stahli,35.14108747,Terrestrial,Carnivorous,Oviparous,NA,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,438
+Mitophis asbolepis,1.550387837,Terrestrial,NA,NA,NA,NA,Leptotyphlopidae,,,Snake,,Feldman et al 2015,156
+Mitophis calypso,2.408438409,Terrestrial,NA,NA,NA,NA,Leptotyphlopidae,,,Snake,,Feldman et al 2015,190
+Mitophis leptepileptus,1.550387837,Terrestrial,NA,NA,NA,NA,Leptotyphlopidae,,,Snake,,Feldman et al 2015,156
+Mitophis pyrites,1.757353503,Terrestrial,NA,NA,NA,NA,Leptotyphlopidae,,,Snake,,Feldman et al 2015,165
+Nerodia clarkii,308,Semi-Aquatic,Carnivorous,Viviparous,NA,Nocturnal,Natricidae,,,Snake,933,Amniote DB,
+Pantherophis alleghaniensis,6561,Arboreal&Terrestrial,Carnivorous,Oviparous,NA,NA,Colubridae,,,Snake,230,Amniote DB,
+Ramphotyphlops braminus,1.503724259,Fossorial,Insectivorous,Oviparous,NA,NA,Typhlopidae,,,Snake,165,Feldman et al 2015,
+Tretanorhinus variabilis,164.3665565,Aquatic,Carnivorous,Oviparous,NA,Nocturnal,Dipsadidae,,,Snake,,Feldman et al 2015,800
+Tropidophis bucculentus,90.95698992,NA,Carnivorous,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,596
+Tropidophis celiae,19.67214972,NA,Carnivorous,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,344
+Tropidophis feicki,41.06393341,Arboreal&Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,448
+Tropidophis fuscus,13.94073924,Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,304
+Tropidophis galacelidus,31.00057111,Terrestrial,NA,NA,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,405
+Tropidophis greenwayi,17.81930253,Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,332
+Tropidophis haetianus,73.4585363,Terrestrial,Carnivorous,Viviparous,Active,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,552
+Tropidophis hardyi,18.1199776,Terrestrial,Carnivorous,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,334
+Tropidophis hendersoni,11.08618892,NA,NA,Viviparous,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,280
+Tropidophis jamaicensis,18.73104154,Terrestrial,NA,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,338
+Tropidophis maculatus,25.01791496,Terrestrial,Carnivorous,NA,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,375
+Tropidophis melanurus,340.2676476,Arboreal&Terrestrial,Carnivorous,Viviparous,Active,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,957
+Tropidophis morenoi,21.81391669,NA,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,357
+Tropidophis nigriventris,6.17857095,NA,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,227
+Tropidophis pardalis,11.87569306,Terrestrial,Carnivorous,Viviparous,Active,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,287
+Tropidophis pilsbryi,24.28151119,Terrestrial,NA,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,371
+Tropidophis semicinctus,31.64457114,Terrestrial,NA,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,408
+Tropidophis spiritus,24.4642908,NA,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,372
+Tropidophis stejnegeri,65.24504009,Terrestrial,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,529
+Tropidophis stullae,7.905737368,Terrestrial,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,248
+Tropidophis wrighti,52.11198595,Arboreal&Terrestrial,NA,Viviparous,NA,Nocturnal,Tropidophiidae,,,Snake,,Feldman et al 2015,488
+Tropidophis xantogaster,7.132085683,Terrestrial,NA,NA,NA,NA,Tropidophiidae,,,Snake,,Feldman et al 2015,239
+Typhlops agoralionis,2.68264461,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,193,Feldman et al 2015,
+Typhlops anchaurus,5.999569873,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,240,Feldman et al 2015,
+Typhlops anousius,2.893768423,Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,197,Feldman et al 2015,
+Typhlops arator,66.30780817,Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,460,Feldman et al 2015,
+Typhlops capitulatus,8.894183559,Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,267,Feldman et al 2015,
+Typhlops cf. silus,1.9,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,175,,
+Typhlops contorhinus,15.43827367,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,310,Feldman et al 2015,
+Typhlops eperopeus,10.74168566,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,281,Feldman et al 2015,
+Typhlops geotomus,3.861053999,Terrestrial,Insectivorous,NA,NA,NA,Typhlopidae,,,Snake,213,Feldman et al 2015,
+Typhlops golyathi,29.97076637,Saxicolous&Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,371,Feldman et al 2015,
+Typhlops gonavensis,4.350778365,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,220,Feldman et al 2015,
+Typhlops granti,3.7,Saxicolous&Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,210,,
+Typhlops guadeloupensis,13.50994866,Saxicolous&Terrestrial,Insectivorous,NA,NA,NA,Typhlopidae,,,Snake,299,Feldman et al 2015,
+Typhlops hectus,5.727243418,Saxicolous&Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,237,Feldman et al 2015,
+Typhlops hypomethes,9.26886125,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,270,Feldman et al 2015,
+Typhlops jamaicensis,58.66695135,Terrestrial,NA,Oviparous,NA,NA,Typhlopidae,,,Snake,445,Feldman et al 2015,
+Typhlops lumbricalis,7.724724946,NA,Insectivorous,Oviparous,NA,Nocturnal,Typhlopidae,,,Snake,257,Feldman et al 2015,
+Typhlops notorachius,13.84669315,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,301,Feldman et al 2015,
+Typhlops oxyrhinus,7.724724946,NA,Insectivorous,Oviparous,NA,Nocturnal,Typhlopidae,,,Snake,257,Feldman et al 2015,
+Typhlops pachyrhinus,4.278190471,NA,Insectivorous,Oviparous,NA,Nocturnal,Typhlopidae,,,Snake,219,Feldman et al 2015,
+Typhlops perimychus,10.60118979,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,280,Feldman et al 2015,
+Typhlops platycephalus,21,Terrestrial,Insectivorous,NA,NA,NA,Typhlopidae,,,Snake,,Feldman et al 2015,337
+Typhlops proancylops,6.281219473,Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,243,Feldman et al 2015,
+Typhlops pusillus,4.805321681,Terrestrial,NA,NA,NA,Nocturnal,Typhlopidae,,,Snake,226,Feldman et al 2015,
+Typhlops richardii,22.19005658,NA,Insectivorous,NA,Active,Nocturnal,Typhlopidae,,,Snake,342,Feldman et al 2015,
+Typhlops rostellatus,4.498643047,Terrestrial,Insectivorous,NA,NA,NA,Typhlopidae,,,Snake,222,Feldman et al 2015,202
+Typhlops satelles,24.16814333,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,350,Feldman et al 2015,
+Typhlops schwartzi,18.6,Saxicolous&Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,,Feldman et al 2015,
+Typhlops sp.,7.775223881,NA,NA,NA,NA,NA,Typhlopidae,EX,,Snake,,,
+Typhlops sulcatus,17.1592773,Terrestrial,NA,Oviparous,NA,NA,Typhlopidae,,,Snake,319,Feldman et al 2015,
+Typhlops syleptor,3.928421371,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,214,Feldman et al 2015,
+Typhlops syntherus,3.599981215,NA,Insectivorous,NA,NA,NA,Typhlopidae,,,Snake,209,Feldman et al 2015,
+Typhlops tetrathyreus,9.654919465,Terrestrial,NA,NA,NA,NA,Typhlopidae,,,Snake,273,Feldman et al 2015,
+Typhlops titanops,4.065722218,NA,NA,NA,NA,NA,Typhlopidae,,,Snake,216,Feldman et al 2015,
+Uromacer catesbyi,180.6171539,Arboreal,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,830
+Uromacer frenatus,241.704553,Arboreal,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,930
+Uromacer oxyrhynchus,822.1853128,Arboreal,Carnivorous,Oviparous,Sit-and-Wait,Diurnal,Dipsadidae,,,Snake,,Feldman et al 2015,1500
+Mabuya mabouya,22.37318815,Saxicolous&Terrestrial,NA,NA,NA,Diurnal,Scincidae,NE,NE,Lizard,,DELETE,101.2
